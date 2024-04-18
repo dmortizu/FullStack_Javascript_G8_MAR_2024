@@ -16,6 +16,8 @@ Mes 3: $ 240
 
 Fin, Total a ahorrar $ 240
 
+
+
 NOTA: no es necesario preguntar al usuario las variables de entrada de tus programas, por favor crea constantes simulando el valor que el usuario ingresó
 
-Escribir un programa que muestre por pantalla la tabla del 7
+3. Escribir un programa que muestre por pantalla la tabla del 7
