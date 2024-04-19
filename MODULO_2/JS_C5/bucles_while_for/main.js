@@ -12,6 +12,7 @@
 
 // var userPassword = prompt("contraseña de inicio");
 
+// While (CONDICION){QUE QUIERO QUE PASE}
 // while (userPassword !== "kambcode") {
 //     userPassword = prompt("Contraseña incorrecta, Digita de nuevo");
 // }
@@ -38,27 +39,30 @@
 // Hacer lo mismo de forma decendente
 // 50, 48, 46... 2 
 
-// var number = 5;
+// var number = 1;
 
 // while (number <= 50){
 //     document.write(number, "<br>")
-//     number = number + 5 // number +=5 
-    // number = number + 1 // number++
-//}
-
-//for (inicio; condicion; incremento){Que queremos que pase}
+//     number = number + 1 // number++
+// }
 
 
-// for (var numberA = 1; numberA <= 50; numberA++){
-//     document.write(numberA, "<br>");
+
+// for (inicio; condicion; incremento){Que queremos que pase}
+
+
+// for (var number = 1; number <= 50; number = number + 1){
+//     document.write(number, "<br>");
 // }
 
 // document.write("FIN DEL PROGRAMA");
 
-//for (inicio; condicion; incremento){Que queremos que pase}
-for (var numberB = 1; numberB <= 10; numberB++){
+// for (inicio; condicion; incremento){Que queremos que pase} En la primera iteracion
+// for (condicion; {} ; incremento) Desde la segunda iteracion
+
+for (var numberB = 1; numberB <= 10; numberB = numberB + 1){
     const tableResult = numberB * 3;
-    document.write(numberB, "* 3 es igual a =", tableResult, "<br>");
+    document.write(numberB, "* 3 es igual a = ", tableResult, "<br>");
     var count = 1;
     while ( count <= 3 ){
         document.write("Hola mundo ", count, "<br>");

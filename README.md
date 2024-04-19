@@ -46,8 +46,9 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - Clase #10, 01/04/2024 CSS Repaso Flexbox, HTML semántico e intro media queries: https://foremost-market-88d.notion.site/Gu-a-de-clase-10-Display-flex-justify-content-dudas-media-queries-0c192ab423134461981d1cce9bf03e9f?pvs=4.
 
 ## MODULO 2
-- 08/04/2024 Introduccion Variables: https://youtu.be/IbFKxFsreyE
-- 10/04/2024 Condicionales (IF - ELSE) : https://youtu.be/aTWRTjWPmzg
-- 12/04/2024 Const - Operadores Logicos : https://youtu.be/kr82H-loaqg
-- 15/04/2024 If -> Else If -> Else : https://youtu.be/XXM-sD74-Cs
-
+- 08/04/2024 C1. Introduccion Variables: https://youtu.be/IbFKxFsreyE
+- 10/04/2024 C2. Condicionales (IF - ELSE) : https://youtu.be/aTWRTjWPmzg
+- 12/04/2024 C3. Const - Operadores Logicos : https://youtu.be/kr82H-loaqg
+- 15/04/2024 C4. If -> Else If -> Else : https://youtu.be/XXM-sD74-Cs
+- 17/04/2024 C5. Ciclos While y For: https://youtu.be/y9L-ozyXxD8
+- 18/04/2024 While y For Retroalimentación: https://youtu.be/2mnT0EdHnDQ
