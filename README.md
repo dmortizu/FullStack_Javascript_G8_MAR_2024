@@ -51,4 +51,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 12/04/2024 C3. Const - Operadores Logicos : https://youtu.be/kr82H-loaqg
 - 15/04/2024 C4. If -> Else If -> Else : https://youtu.be/XXM-sD74-Cs
 - 17/04/2024 C5. Ciclos While y For: https://youtu.be/y9L-ozyXxD8
-- 18/04/2024 While y For Repaso: https://youtu.be/2mnT0EdHnDQ
+- 18/04/2024 Ciclos While y For Repaso: https://youtu.be/2mnT0EdHnDQ
