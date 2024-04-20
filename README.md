@@ -52,3 +52,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 15/04/2024 C4. If -> Else If -> Else : https://youtu.be/XXM-sD74-Cs
 - 17/04/2024 C5. Ciclos While y For: https://youtu.be/y9L-ozyXxD8
 - 18/04/2024 Ciclos While y For Repaso: https://youtu.be/2mnT0EdHnDQ
+- 19/04/2024 Instalación Node.js / var vs let: https://youtu.be/5Zdo8rPy6Po
