@@ -19,3 +19,7 @@ A fin de repaso con los temas anteriormente vistos, te proponemos resolver los s
 ### Ejercicio Array
 
 1. Teniendo un array `let myArray = [1, 2, 3, 4, 5]`, escribe un programa que invierta el orden de los elementos en un nuevo array `let invertido = []`, utiliza un ciclo for para recorrer el array `let myArray`.
+
+
+### NOTA:
+Estos ejercicios son de repaso, es decir que no cuentan como tarea.
