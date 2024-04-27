@@ -8,7 +8,7 @@ A fin de repaso con los temas anteriormente vistos, te proponemos resolver los s
 
 1. Escribe un programa que determine si un número es positivo, negativo o cero.
 
-2. Escribe un programa que compare dos números e imprima el mayor de ellos. Crea una variable para estos numeros por ejemplo: `let num1 = 10` y `let num2 = 15`, en este caso la consola debera imprimir 'El numero mayor es: 15'.
+2. Escribe un programa que compare dos números y muestre el mayor de ellos. Crea un prompt para que el usuario digite estos numeros, por ejemplo: `let num1 = Number(prompt("Digita un numero")` y `let num2 = Number(prompt("Digita otro numero")`, el programa debera mostrar el numero mayor.
 
 ### Ejercicios Ciclo For o While
 
