@@ -56,3 +56,5 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 22/04/2024 Arrays y Math Parte 1: https://youtu.be/B8wMcR9Y1_U
 - 22/04/2024 Arrays y Math Parte 2: https://youtu.be/GExzS6-MqiQ
 - 24/04/2024 Funciones: https://youtu.be/nWtkIBIkI7Y
+- 26/04/2024 Repaso (Array y Ciclos): https://youtu.be/bJfHrXbEQLg
+
