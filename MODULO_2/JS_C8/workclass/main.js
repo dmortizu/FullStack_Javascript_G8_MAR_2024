@@ -7,10 +7,10 @@ const persona1age = 34;
 // function name (argumentos o parametros){que queremos hacer}
 function calcularFechaNacimiento(age){
     const birthday = 2024 - age;
-    console.log("Hola esta es mi funcion", persona3, "naciste en: ", birthday)
+    console.log("Hola esta es mi funcion", persona, "naciste en: ", birthday)
 }
 
-calcularFechaNacimiento(34);
+calcularFechaNacimiento(40);
 
 const persona2 = "Carlos";
 const persona2age = 30;

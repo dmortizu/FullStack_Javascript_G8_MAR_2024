@@ -26,7 +26,7 @@
 // var number = 1;
 
 // while (number <= 100){
-//     document.write(number, "<br>");
+//     document.write(numbe r, "<br>");
 //     number = number + 1; 
 // }
 
