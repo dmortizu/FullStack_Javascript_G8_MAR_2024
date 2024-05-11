@@ -11,5 +11,8 @@ const incrementar = () => {
 // Tercer click count => 3 
 
 const decrementar = () => {
-
+    if(count > 0){
+        count = count - 1
+        counterElement.innerHTML = count;
+    }
 }
