@@ -1,0 +1,15 @@
+.title{
+    color: red;
+    text-decoration: underline;
+}
+
+#text1{
+    color: blue;
+}
+
+.button{
+    padding: 10px 30px;
+    background-color: aqua;
+    cursor: pointer;
+    border-radius: 5px;
+}
