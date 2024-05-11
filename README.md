@@ -59,6 +59,7 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 26/04/2024 Repaso (Array y Ciclos): https://youtu.be/bJfHrXbEQLg
 - 29/04/2024 Arrow Function e Introduccion a Objetos: https://youtu.be/SqT4F5G-iPc
 - 02/05/2024 Objetos / Operaciones con Objetos: https://youtu.be/MjuQXt2l6jQ
+- 10/05/2024 Modificando el DOM con JS: https://youtu.be/Wea-wLQuePw
 
 
 
