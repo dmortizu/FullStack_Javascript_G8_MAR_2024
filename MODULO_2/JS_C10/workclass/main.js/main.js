@@ -2,14 +2,14 @@
 
 //1. string = "Kambcode" || 'kambcode'
 //2. Numerico = 100
-//3. Boleanos
-//4. Funciones =
+//3. Boleanos = True || False
+//4. Funciones = 
 //5. Arrays
 
 
-// function sayHello (name){ 
-//     console.log("hola", name)
-// }
+function sayHello (name){ 
+    console.log("hola", name)
+}
 // sayHello("Daniel");
 // sayHello("Carlos");
 // sayHello("Julieth");
